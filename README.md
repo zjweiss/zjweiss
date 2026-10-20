@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Zach Weiss
 - 🌱 I graduated from the the University of Michigan, Ann Arbor with a degree in Computer Science and a minor in Entrepeneurship.
-- 📫 Feel free to contact me at zjweiss@umich.edu or view my website at [zjweiss.com](zjweiss.com)!
+- 📫 Feel free to contact me at zjweiss@umich.edu or view my website at [zjweiss.com](https://www.zjweiss.com)!
